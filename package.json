@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "exercise Boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EneaSema/node-hello-world.git"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "Enea Sema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EneaSema/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/EneaSema/node-hello-world#readme"
+}
